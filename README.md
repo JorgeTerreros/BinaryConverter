@@ -1,4 +1,4 @@
-This program is to convert:\n
-Decimals to Binary AND Hexadecimals\n
-Binary to Decimals  AND Hexadecimals\n
-Hexadecimals to Binary AND Decimals\n
+This program is to convert:<br>
+Decimals to Binary AND Hexadecimals<br>
+Binary to Decimals  AND Hexadecimals<br>
+Hexadecimals to Binary AND Decimals<br>
